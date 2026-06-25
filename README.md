@@ -1,4 +1,4 @@
-#👋 Hi, I'm Sameeksha Padigelawar
+# 👋 Hi, I'm Sameeksha Padigelawar
 
 🎓 B.Tech Information Technology @ **CBIT, Hyderabad**  
 💻 Full-Stack Developer | Generative AI Enthusiast | Problem Solver  
