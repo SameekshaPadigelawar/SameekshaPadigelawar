@@ -135,7 +135,7 @@ Next.js, TypeScript, AWS, Gemini API, Grok API, Stability AI, Serper API
 - AI Agent Development
 
 ---
-
+<!--
 ## 📊 GitHub Stats
 
 <!-- Replace YOUR_USERNAME with your GitHub username -->
@@ -145,6 +145,7 @@ Next.js, TypeScript, AWS, Gemini API, Grok API, Stability AI, Serper API
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SameekshaPadigelawar&layout=compact)
 
 ---
+-->
 
 ## 📫 Connect With Me
 
