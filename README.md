@@ -138,7 +138,7 @@ Next.js, TypeScript, AWS, Gemini API, Grok API, Stability AI, Serper API
 <!--
 ## 📊 GitHub Stats
 
-<!-- Replace YOUR_USERNAME with your GitHub username -->
+Replace YOUR_USERNAME with your GitHub username
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SameekshaPadigelawar&show_icons=true)
 
