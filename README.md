@@ -127,13 +127,13 @@ Next.js, TypeScript, AWS, Gemini API, Grok API, Stability AI, Serper API
 👩‍💻 Built and submitted a Generative AI prototype addressing real-world challenges in India
 
 ---
-
+<!--
 ## 🌱 Currently Learning
 
 - Advanced MERN Stack Development
 - Large Language Models (LLMs)
 - AI Agent Development
-
+-->
 ---
 <!--
 ## 📊 GitHub Stats
