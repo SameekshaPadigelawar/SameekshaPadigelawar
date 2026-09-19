@@ -156,3 +156,32 @@ Replace YOUR_USERNAME with your GitHub username
 ---
 
 ⭐ *Always eager to learn, build, and contribute to impactful technology solutions.*
+
+
+
+
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=SameekshaPadigelawar&show_icons=true&theme=radical&hide_border=true&count_private=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SameekshaPadigelawar&layout=donut&theme=radical&hide_border=true" height="170"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SameekshaPadigelawar&theme=radical&hide_border=true" width="70%"/>
+</div>
+
+<br>
+
+## 📈 Contribution Activity
+
+<div align="center">
+  <img src="https://github.pumbas.net/api/contributions/SameekshaPadigelawar?color=8B5CF6&showBorder=false&background=00000000" width="90%"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SameekshaPadigelawar&theme=react-dark&hide_border=true" width="90%"/>
+</div>
+
+<br>
